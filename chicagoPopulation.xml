@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chicagoPopulation>
+   <orientations>
+	<orientation>North</orientation>
+	<orientation>South</orientation>
+	<orientation>East</orientation>
+	<orientation>West</orientation>
+   </orientations>
+</chicagoPopulation>
