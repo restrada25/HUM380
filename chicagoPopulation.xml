@@ -1,9 +1,450 @@
 <?xml version="1.0" encoding="utf-8"?>
 <chicagoPopulation>
-   <orientations>
-	<orientation>North</orientation>
-	<orientation>South</orientation>
-	<orientation>East</orientation>
-	<orientation>West</orientation>
-   </orientations>
+     <year>2010</year>
+     <totalPopulation>2,695,598</totalPopulation>
+	
+     <ethnicityOrRaceDistribution>
+        <white>33.1%</white>
+        <black>32.8%</black>
+        <native>0.10%</native>
+        <asian>5.2%</asian>
+        <hispanic>27.3%</hispanic>
+        <other>1.20%</other>
+     </ethnicityOrRaceDistribution>
+
+     <ageDistribution>
+         <ageRange>
+            <range>0-14</range>
+	    <percentage>19.2%</percentage>
+         </ageRange>
+         <ageRange>
+            <range>15-44</range>
+	    <percentage>48.2%</percentage>
+         </ageRange>
+         <ageRange>
+            <range>45-64</range>
+	    <percentage>22.3%</percentage>
+         </ageRange>
+         <ageRange>
+            <range>65 or more</range>
+	    <percentage>10.3%</percentage>
+         </ageRange>
+     </ageDistribution>
+
+     <regionalDistribution>
+       <FarNorth>
+         <neighborhood>
+            <name>Albany Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Edgewater</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Edison Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Forest Glen</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Lincoln Square</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+         <neighborhood>
+            <name>Jefferson Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+            <name>Norwood Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>O'Hare</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Rogers Park</name>
+            <population>56,125</population>
+            <ethnicityDistribution>
+		<white>38.2%</white>
+		<black>26.4%</black>
+		<hispanic>25.7%</hispanic>
+		<asian>6.4%</asian>
+	    </ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Uptown</name>
+            <population>60,070</population>
+            <ethnicityDistribution>
+		<white>52.1%</white>
+		<black>18.9%</black>
+		<hispanic>15.9%</hispanic>
+		<asian>11.0%</asian>
+	    </ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Ridge</name>
+            <population>71,915</population>
+            <ethnicityDistribution>
+		<white>47.3%</white>
+		<black>10.3%</black>
+		<hispanic>25.7%</hispanic>
+		<asian>6.4%</asian>
+	    </ethnicityDistribution>
+         </neighborhood>
+       </FarNorth>
+       <North>
+         <neighborhood>
+            <name>Avondale</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Lakeview</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Lincoln Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Logan Square</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>North Center</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </North>
+       <Northwest>
+         <neighborhood>
+            <name>Belmont</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Dunning</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Hermosa</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Irving Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Mountclare</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Portage Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </Northwest> 
+       <West>
+         <neighborhood>
+            <name>Austin</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>East Garfield Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood> 
+         <neighborhood>
+            <name>Humbold Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>  
+         <neighborhood>
+            <name>Lower West Side</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood> 
+         <neighborhood>
+            <name>Near West Side</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>North Lawndale</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>South Lawndale</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Garfield Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Town</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </West>  
+       <Central>
+         <neighborhood>
+            <name>Loop</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Near North</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Near South</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </Central>
+       <South>
+         <neighborhood>
+            <name>Armor Square</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Bridgeport</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Douglass</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Fuller Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Grand Boulevard</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Greater Grand Crossing</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Hyde Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Kenwood</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Oakland</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>South Shore</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Washington Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Woodlawn</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </South>
+       <Southwest>
+         <neighborhood>
+            <name>Archer Heights</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Brighton Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Clearing</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Chicago Lawn</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Englewood</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Gage Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Garfield Ridge</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>McKinley Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>New City</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Elsdon</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Englewood</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Lawn</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </Southwest>
+       <FarSouthwest>
+         <neighborhood>
+            <name>Ashburn</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Auburn Gresham</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Beverly</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Morgan Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Mount Grenwood</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Washington Heights</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </FarSouthwest>
+       <FarSoutheast>
+         <neighborhood>v
+            <name>Avalon Park</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Burnside</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Calumet Heights</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Chatham</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>East Side</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Hegewish</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Pullman</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Riverdale</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>Roseland</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>South Chicago</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>South Deering</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
+            <name>West Pullman</name>
+            <population></population>
+            <ethnicityDistribution></ethnicityDistribution>
+         </neighborhood>
+       </FarSoutheast>
+     </regionalDistribution>
+
 </chicagoPopulation>
