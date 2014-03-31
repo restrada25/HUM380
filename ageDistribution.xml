@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+     <ageDistribution>
+         <ageRange>
+            <range>0-14</range>
+	    <percentage>19.2%</percentage>
+         </ageRange>
+         <ageRange>
+            <range>15-44</range>
+	    <percentage>48.2%</percentage>
+         </ageRange>
+         <ageRange>
+            <range>45-64</range>
+	    <percentage>22.3%</percentage>
+         </ageRange>
+         <ageRange>
+            <range>65 or more</range>
+	    <percentage>10.3%</percentage>
+         </ageRange>
+     </ageDistribution>
