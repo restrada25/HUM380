@@ -35,35 +35,75 @@
        <FarNorth>
          <neighborhood>
             <name>Albany Park</name>
-            <population></population>
-            <ethnicityDistribution></ethnicityDistribution>
+            <population>52,657</population>
+            <ethnicityDistribution>
+		<white>30.2%</white>
+		<black>4.3%</black>
+		<hispanic>51.0%</hispanic>
+		<asian>12.7%</asian>
+	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Edgewater</name>
-            <population></population>
-            <ethnicityDistribution></ethnicityDistribution>
+            <population>57,846</population>
+            <ethnicityDistribution>
+		<white>57.0%</white>
+		<black>15.4%</black>
+		<hispanic>13.7%</hispanic>
+		<asian>10.4%</asian>
+	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Edison Park</name>
-            <population></population>
-            <ethnicityDistribution></ethnicityDistribution>
+            <population>11,715</population>
+            <ethnicityDistribution>
+		<white>93.6%</white>
+		<black>0.0%</black>
+		<hispanic>3.7%</hispanic>
+		<asian>1.7%</asian>
+	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Forest Glen</name>
-            <population></population>
-            <ethnicityDistribution></ethnicityDistribution>
+            <population>20,033</population>
+            <ethnicityDistribution>
+		<white>74.9%</white>
+		<black>1.6%</black>
+		<hispanic>12.6%</hispanic>
+		<asian>10.1%</asian>
+	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Lincoln Square</name>
-            <population></population>
-            <ethnicityDistribution></ethnicityDistribution>
+            <population>40,971</population>
+            <ethnicityDistribution>
+		<white>61.2%</white>
+		<black>4.7%</black>
+		<hispanic>18.6%</hispanic>
+		<asian>13.0%</asian>
+	    </ethnicityDistribution>
          </neighborhood>
-         <neighborhood>
          <neighborhood>
             <name>Jefferson Park</name>
-            <population></population>
-            <ethnicityDistribution></ethnicityDistribution>
+            <population>41,097</population>
+            <ethnicityDistribution>
+		<white>70.3%</white>
+		<black>0.3%</black>
+		<hispanic>19.9%</hispanic>
+		<asian>6.9%</asian>
+	    </ethnicityDistribution>
          </neighborhood>
+         <neighborhood>
+            <name>North Park</name>
+            <population>21,963</population>
+            <ethnicityDistribution>
+		<white>50.6%</white>
+		<black>2.0%</black>
+		<hispanic>16.1%</hispanic>
+		<asian>27.7%</asian>
+	    </ethnicityDistribution>
+         </neighborhood>
+         <neighborhood>
             <name>Norwood Park</name>
             <population></population>
             <ethnicityDistribution></ethnicityDistribution>
