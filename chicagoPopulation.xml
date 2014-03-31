@@ -302,7 +302,7 @@
          <neighborhood>
             <name>Lower West Side</name>
             <population>37,477</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>13.7%</white>
 		<black>2.9%</black>
 		<hispanic>81.8%</hispanic>
@@ -312,7 +312,7 @@
          <neighborhood>
             <name>Near West Side</name>
             <population>52,384</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>38.4%</white>
 		<black>40.2%</black>
 		<hispanic>7.3%</hispanic>
@@ -322,7 +322,7 @@
          <neighborhood>
             <name>North Lawndale</name>
             <population>36,243</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>1.8%</white>
 		<black>91.3%</black>
 		<hispanic>5.5%</hispanic>
@@ -332,7 +332,7 @@
          <neighborhood>
             <name>South Lawndale</name>
             <population>77,324</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>4.1%</white>
 		<black>13.5%</black>
 		<hispanic>82.1%</hispanic>
@@ -342,7 +342,7 @@
          <neighborhood>
             <name>West Garfield Park</name>
             <population>19,294</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>1.2%</white>
 		<black>95.6%</black>
 		<hispanic>1.8%</hispanic>
@@ -352,7 +352,7 @@
          <neighborhood>
             <name>West Town</name>
             <population>86,354</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>55.5%</white>
 		<black>9.2%</black>
 		<hispanic>30.2%</hispanic>
@@ -364,7 +364,7 @@
          <neighborhood>
             <name>Loop</name>
             <population>20,006</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>68.6%</white>
 		<black>11.9%</black>
 		<hispanic>3.9%</hispanic>
@@ -374,7 +374,7 @@
          <neighborhood>
             <name>Near North</name>
             <population>77,412</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>72.2%</white>
 		<black>12.9%</black>
 		<hispanic>5.1%</hispanic>
@@ -384,7 +384,7 @@
          <neighborhood>
             <name>Near South</name>
             <population>16,657</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>43.4%</white>
 		<black>36.9%</black>
 		<hispanic>4.8%</hispanic>
@@ -396,7 +396,7 @@
          <neighborhood>
             <name>Armor Square</name>
             <population>13,735</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>16.5%</white>
 		<black>9.1%</black>
 		<hispanic>3.7%</hispanic>
@@ -406,7 +406,7 @@
          <neighborhood>
             <name>Bridgeport</name>
             <population>32,394</population>
-                <ethnicityDistribution>
+            <ethnicityDistribution>
 		<white>38.5%</white>
 		<black>0.8%</black>
 		<hispanic>27.0%</hispanic>
@@ -415,408 +415,408 @@
          </neighborhood>
          <neighborhood>
             <name>Douglass</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>21,546</population>
+            <ethnicityDistribution>
+		<white>13.2%</white>
+		<black>77.4%</black>
+		<hispanic>1.9%</hispanic>
+		<asian>7.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Fuller Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>3,317</population>
+            <ethnicityDistribution>
+		<white>0.6%</white>
+		<black>97.4%</black>
+		<hispanic>0.0%</hispanic>
+		<asian>0.3%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Grand Boulevard</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>21,777</population>
+            <ethnicityDistribution>
+		<white>3.6%</white>
+		<black>93.7%</black>
+		<hispanic>1.1%</hispanic>
+		<asian>0.2%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Greater Grand Crossing</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>37,465</population>
+            <ethnicityDistribution>
+		<white>1.3%</white>
+		<black>97.4%</black>
+		<hispanic>0.6%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Hyde Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>37,604</population>
+            <ethnicityDistribution>
+		<white>48.4%</white>
+		<black>33.4%</black>
+		<hispanic>5.3%</hispanic>
+		<asian>11.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Kenwood</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>17,870</population>
+            <ethnicityDistribution>
+		<white>16.6%</white>
+		<black>71.8%</black>
+		<hispanic>2.9%</hispanic>
+		<asian>5.5%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Oakland</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>5,098</population>
+            <ethnicityDistribution>
+		<white>3.2%</white>
+		<black>91.0%</black>
+		<hispanic>2.7%</hispanic>
+		<asian>0.9%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>South Shore</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>54,128</population>
+            <ethnicityDistribution>
+		<white>1.8%</white>
+		<black>94.8%</black>
+		<hispanic>1.3%</hispanic>
+		<asian>0.3%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Washington Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>12,271</population>
+            <ethnicityDistribution>
+		<white>0.2%</white>
+		<black>98.3%</black>
+		<hispanic>1.0%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Woodlawn</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>23,410</population>
+            <ethnicityDistribution>
+		<white>5.0%</white>
+		<black>91.2%</black>
+		<hispanic>1.4%</hispanic>
+		<asian>1.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
        </South>
        <Southwest>
          <neighborhood>
             <name>Archer Heights</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>12,315</population>
+            <ethnicityDistribution>
+		<white>30.1%</white>
+		<black>1.4%</black>
+		<hispanic>67.8%</hispanic>
+		<asian>0.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Brighton Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>45,387</population>
+            <ethnicityDistribution>
+		<white>10.8%</white>
+		<black>1.1%</black>
+		<hispanic>82.0%</hispanic>
+		<asian>5.5%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Clearing</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>24,483</population>
+            <ethnicityDistribution>
+		<white>57.7%</white>
+		<black>0.7%</black>
+		<hispanic>40.5%</hispanic>
+		<asian>0.7%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Chicago Lawn</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>56,019</population>
+            <ethnicityDistribution>
+		<white>5.3%</white>
+		<black>56.0%</black>
+		<hispanic>37.2%</hispanic>
+		<asian>0.5%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Englewood</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>35,186</population>
+            <ethnicityDistribution>
+		<white>0.6%</white>
+		<black>98.5%</black>
+		<hispanic>0.4%</hispanic>
+		<asian>0.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Gage Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>39,981</population>
+            <ethnicityDistribution>
+		<white>7.2%</white>
+		<black>5.7%</black>
+		<hispanic>85.7%</hispanic>
+		<asian>0.4%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Garfield Ridge</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>39,844</population>
+            <ethnicityDistribution>
+		<white>56.1%</white>
+		<black>7.5%</black>
+		<hispanic>33.5%</hispanic>
+		<asian>2.3%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>McKinley Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>16,192</population>
+            <ethnicityDistribution>
+		<white>22.9%</white>
+		<black>1.4%</black>
+		<hispanic>61.1%</hispanic>
+		<asian>13.2%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>New City</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>47,011</population>
+            <ethnicityDistribution>
+		<white>13.3%</white>
+		<black>31.5%</black>
+		<hispanic>53.2%</hispanic>
+		<asian>1.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>West Elsdon</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>18,249</population>
+            <ethnicityDistribution>
+		<white>21.4%</white>
+		<black>1.9%</black>
+		<hispanic>75.4%</hispanic>
+		<asian>0.7%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>West Englewood</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>42,329</population>
+            <ethnicityDistribution>
+		<white>0.7%</white>
+		<black>96.4%</black>
+		<hispanic>1.9%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>West Lawn</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>33,310</population>
+            <ethnicityDistribution>
+		<white>22.1%</white>
+		<black>3.6%</black>
+		<hispanic>72.8%</hispanic>
+		<asian>0.2%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
        </Southwest>
        <FarSouthwest>
          <neighborhood>
             <name>Ashburn</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>44,627</population>
+            <ethnicityDistribution>
+		<white>17.6%</white>
+		<black>49.2%</black>
+		<hispanic>31.5%</hispanic>
+		<asian>0.8%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Auburn Gresham</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>55,258</population>
+            <ethnicityDistribution>
+		<white>0.4%</white>
+		<black>98.3%</black>
+		<hispanic>0.7%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Beverly</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>23,462</population>
+            <ethnicityDistribution>
+		<white>62.6%</white>
+		<black>31.9%</black>
+		<hispanic>3.1%</hispanic>
+		<asian>0.5%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Morgan Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>29,199</population>
+            <ethnicityDistribution>
+		<white>37.2%</white>
+		<black>54.8%</black>
+		<hispanic>5.4%</hispanic>
+		<asian>1.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Mount Grenwood</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>19,550</population>
+            <ethnicityDistribution>
+		<white>89.4%</white>
+		<black>4.7%</black>
+		<hispanic>5.8%</hispanic>
+		<asian>0.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Washington Heights</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>28,246</population>
+            <ethnicityDistribution>
+		<white>0.7%</white>
+		<black>97.6%</black>
+		<hispanic>0.4%</hispanic>
+		<asian>0.2%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
        </FarSouthwest>
        <FarSoutheast>
          <neighborhood>v
             <name>Avalon Park</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>10,420</population>
+            <ethnicityDistribution>
+		<white>0.4%</white>
+		<black>98.1%</black>
+		<hispanic>0.0%</hispanic>
+		<asian>0.3%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Burnside</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>4,138</population>
+            <ethnicityDistribution>
+		<white>2.0%</white>
+		<black>98.0%</black>
+		<hispanic>0.0%</hispanic>
+		<asian>0.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Calumet Heights</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>16,431</population>
+            <ethnicityDistribution>
+		<white>0.5%</white>
+		<black>94.6%</black>
+		<hispanic>4.3%</hispanic>
+		<asian>0.5%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Chatham</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>36,584</population>
+            <ethnicityDistribution>
+		<white>0.6%</white>
+		<black>97.1%</black>
+		<hispanic>0.3%</hispanic>
+		<asian>0.3%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>East Side</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>26,608</population>
+            <ethnicityDistribution>
+		<white>19.4%</white>
+		<black>2.3%</black>
+		<hispanic>77.6%</hispanic>
+		<asian>0.3%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Hegewish</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>10,880</population>
+            <ethnicityDistribution>
+		<white>48.9%</white>
+		<black>7.1%</black>
+		<hispanic>43.3%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Pullman</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>7,900</population>
+            <ethnicityDistribution>
+		<white>8.4%</white>
+		<black>83.4%</black>
+		<hispanic>8.1%</hispanic>
+		<asian>0.0%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Riverdale</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>5,269</population>
+            <ethnicityDistribution>
+		<white>0.5%</white>
+		<black>97.7%</black>
+		<hispanic>0.6%</hispanic>
+		<asian>1.2%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>Roseland</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>49,833</population>
+            <ethnicityDistribution>
+		<white>0.9%</white>
+		<black>97.2%</black>
+		<hispanic>0.5%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>South Chicago</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>34,796</population>
+            <ethnicityDistribution>
+		<white>1.9%</white>
+		<black>71.6%</black>
+		<hispanic>25.5%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>South Deering</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>17,725</population>
+            <ethnicityDistribution>
+		<white>6.8%</white>
+		<black>61.6%</black>
+		<hispanic>30.6%</hispanic>
+		<asian>0.1%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
          <neighborhood>
             <name>West Pullman</name>
-            <population></population>
-                        <ethnicityDistribution>
-		<white>%</white>
-		<black>%</black>
-		<hispanic>%</hispanic>
-		<asian>%</asian>
+            <population>34,759</population>
+            <ethnicityDistribution>
+		<white>0.9%</white>
+		<black>94.3%</black>
+		<hispanic>3.7%</hispanic>
+		<asian>0.5%</asian>
 	    </ethnicityDistribution>
          </neighborhood>
        </FarSoutheast>
